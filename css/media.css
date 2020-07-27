@@ -1,0 +1,354 @@
+
+@media (max-width: 1850px){
+.slider__inner{
+	width: 522px;
+	height: 286px;
+	padding: 20px 30px 0 30px;
+	margin-top: 30px;
+}
+.slider__title{
+	font-size: 48px;
+	line-height: 48px;
+} 
+
+}
+@media (max-width: 1460px){
+	.slider__inner{
+	width: 522px;
+	height: 226px;
+	padding: 20px 30px 0 30px;
+	margin-top: 30px;
+}
+	.slider__title{
+	font-size: 36px;
+	line-height: 36px;
+}
+br{
+	display: none;
+}
+}
+@media (max-width: 1460px){
+	.slider__inner{
+	width: 522px;
+	height: 206px;
+	padding: 20px 30px 0 30px;
+	margin-top: 30px;
+}
+	.slider__title{
+	font-size: 36px;
+	line-height: 36px;
+}
+.slider__text{
+	font-size: 16px;
+	line-height: 22px;
+}
+}
+@media (max-width: 1170px){
+.slider__inner{
+	width: 522px;
+	height: 166px;
+	padding: 20px 30px 0 30px;
+	margin-top: 30px;
+}
+	.slider__title{
+	font-size: 24px;
+	line-height: 24px;
+}
+.slider__text{
+	font-size: 14px;
+	line-height: 20px;
+}
+.slider__dots{
+	left: 24%;
+	bottom: 25px;
+}
+.slider__dot{
+	margin: 0 8px;
+	width: 13px;
+	height: 13px;
+}
+.header__btn-menu{
+	display: block;
+	margin: 40px 0;
+}
+.icon-bars{
+	
+	
+	z-index: 10;
+}
+.menu ul{
+	display: none;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-top: 0;
+z-index: 10;
+}
+.menu li{
+	display: block;
+	padding: 10px 0 10px;
+	background:  rgba(1, 1, 1, 0.75);
+z-index: 10;
+}
+.menu a{
+	display: block;	
+	color: #fff;
+	z-index: 10;
+}
+.menu__list{
+	border-top: none;
+}
+.menu__list li{
+	margin-left: 0;
+}
+
+.subtitle{
+	padding-bottom: 0;
+}
+.section__news{
+	display: block;
+}
+.news__inner{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    padding-right: 0;
+}
+.news__inner-blog{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.blog__item{
+	margin: 0 40px;
+}
+.more__inner{
+	display: flex;
+	 align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.item_two{
+	margin-top: 30px;
+}
+.footer__menu-list{
+	padding: 0;
+}
+}
+@media (max-width: 970px){
+	.footer__info{
+		display: block;
+		
+    text-align: center;
+	}
+	.footer__title{
+		width: auto;
+	}
+	.footer__subtitle{
+		width: auto;
+		padding-bottom: 30px;
+	}
+	.tracker{
+		display: block;
+	}
+	.footer__copy{
+		align-items: center;
+    justify-content: center;
+	}
+	.icon-bars{
+	
+
+	z-index: 9;
+}
+.more__facebook{
+	margin-bottom: 50px;
+}
+.pagination{
+	margin-right: 0;
+}
+
+
+}
+@media (max-width: 820px){
+.header__btn-menu{
+	display: block;
+	margin: 20px 0;
+}
+.slider__dots{
+	left: 24%;
+	bottom: 25px;
+}
+
+.slider__dot{
+	margin: 0 8px;
+	width: 11px;
+	height: 11px;
+}
+.slider__inner{
+	width: 422px;
+	height: 136px;
+	padding: 20px 30px 0 30px;
+	margin-top: 30px;
+}
+	.slider__title{
+	font-size: 18px;
+	line-height: 18px;
+}
+.slider__text{
+	font-size: 12px;
+	line-height: 18px;
+}
+}
+@media (max-width: 712px){
+	.header__btn-menu{
+	display: block;
+	margin: 10px 0;
+}
+.section__bottom{
+		display: flex;
+	 align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.slider__dots{
+	left: 80%;
+	bottom: 25px;
+}
+
+.slider__dot{
+	margin: 0 8px;
+	width: 8px;
+	height: 8px;
+}
+.slider__inner{
+	width: 262px;
+	height: 136px;
+	padding: 10px 15px 0 15px;
+	margin-top: 15px;
+}
+	.slider__title{
+	font-size: 16px;
+	line-height: 16px;
+}
+.slider__text{
+	font-size: 10px;
+	line-height: 16px;
+}
+
+}
+@media (max-width: 570px){
+
+.news__img{
+	width: 250px;
+	height: auto;
+	align-items: center;
+	margin: 0 auto;
+}
+.item img{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+.pagination a{
+	padding: 7px 11px;
+}
+.pagination a:nth-last-child(2){
+	padding: 7px 9px;
+}
+}
+@media (max-width: 520px){
+	.slider__inner{
+	width: 322px;
+	height: 116px;
+	padding: 10px 15px 0 15px;
+	margin-top: 15px;
+}
+}
+@media (max-width: 461px){
+	.slider{
+		margin-top: 40px;
+	}
+	.news__detail{
+		display: flex;
+	align-items: center;
+    justify-content: center;
+      flex-wrap: wrap;
+	}
+	.social {
+		padding-top: 25px;
+	}
+	.social a:first-child{
+		padding-left: 0;
+	}
+.slider__dots{
+	left: 95%;
+	bottom: 25px;
+}
+.slider__text{
+	margin-top: 5px;
+}
+.slider__inner{
+
+	height: 96px;
+
+}
+}
+@media (max-width: 380px){
+	.slider{
+		margin-top: 60px;
+	}
+
+.item{
+	height: 730px; 
+}
+.header__btn-menu{
+	display: block;
+	margin: 10px 0 10px;
+}
+.slider__inner{
+	width: 202px;
+	height: 86px;
+	padding: 2px 4px 0 4px;
+	margin-top: 4px;
+}
+	.slider__title{
+	font-size: 12px;
+	line-height: 12px;
+}
+.slider__text{
+	font-size: 8px;
+	line-height: 10px;
+}
+.more__facebook{
+	width: 320px;
+	padding: 15px 15px;
+}
+}
+@media (max-width: 350px){
+	.slider{
+		margin-top: 100px;
+	}
+}
+@media (max-width: 330px){
+	
+.item{
+	height: 780px;
+}
+
+.pagination a{
+	padding: 6px 10px;
+}
+.pagination a:nth-last-child(2){
+	padding: 6px 8px;
+}
+.build__text{
+	font-size: 14px;
+	line-height: 20px;
+}
+}
+@media (min-width: 1170px){
+	.menu ul{
+		display: flex !important;
+	}
+}
