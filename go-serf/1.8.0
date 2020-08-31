@@ -1,0 +1,8 @@
++ jquery@3.5.1
+updated 1 package and audited 699 packages in 25.817s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 441 vulnerabilities (440 low, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
