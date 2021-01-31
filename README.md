@@ -3,6 +3,7 @@
 links to my projects
 
 Go-Serf
+
 https://kirrus24.github.io/sites/go-serf/app/
 
 Jet-Ski
@@ -11,4 +12,5 @@ Jet-Ski
 3) https://kirrus24.github.io/sites/jet-ski/product-page.html
 
 Temple
+
 https://kirrus24.github.io/sites/temple/
