@@ -1,11 +1,13 @@
 # sites
 
-links to my projects
+Links to my projects
+1. Furniture –>
+https://kirrus24.github.io/sites/furnutire-shop/Funiro-master/Funiro-master/index
 
-1. Go-Serf –> 
+2. Go-Serf –> 
 https://kirrus24.github.io/sites/go-serf/app/
 
-2. Jet-Ski
+3. Jet-Ski
 
   https://kirrus24.github.io/sites/jet-ski/
 
@@ -13,5 +15,5 @@ https://kirrus24.github.io/sites/go-serf/app/
 
   https://kirrus24.github.io/sites/jet-ski/product-page.html
 
-3. Temple –> 
+4. Temple –> 
 https://kirrus24.github.io/sites/temple/
