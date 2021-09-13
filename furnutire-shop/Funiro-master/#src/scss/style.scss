@@ -1,0 +1,77 @@
+// base
+@import "./base/variables";
+@import "./base/mixins";
+@import "./base/fonts";
+@import "./base/icons"; 
+@import "./base/zeroing";
+@import "./base/ibg"; 
+@import "./base/burger";
+@import "./base/popup";
+// libs
+@import "./libs/swiper-bundle.min";
+@import "./libs/lightgallery";
+
+@import "./base/ui";
+// blocks
+@import "./blocks/header";
+@import "./blocks/footer";
+@import "./blocks/mainSlider";
+@import "./blocks/advantages";
+@import "./blocks/products";
+@import "./blocks/rooms";
+@import "./blocks/tips";
+@import "./blocks/furniture";
+
+
+// global styles
+._container {
+	max-width: $maxWidth + px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+.page {
+  flex: 1 1 auto;
+}
+
+body._lock{
+  overflow: hidden;
+}
+
+
+//добавил в начале видео две переменные
+// $fontFamily: "Gilroy";
+// $fontSize: 16;
+
+//лишняя переменная
+// $white: #fff;
+
+//добавил переменные, которые есть в файле variables
+// $mainColor: #3A3A3A;
+// $orangeColor: #E89F71;
+// $grayColor: #898989;
+// $darkGrayColor: #616161;
+
+// $width: 1270;
+// $fontFamily: 'Gilroy', sans-serif;
+// $minWidth: 320px;
+// $maxWidth: 1440;
+// $md1: $width + 12;
+// $minWidth: 320px;
+// $maxWidth: 1440;
+// $maxWidthContainer: 1270;
+// $md1: $maxWidthContainer + 12;
+// $md2: 991.98;
+// $md3: 767.98;
+// $md4: 479.98;
+
+// media
+@import "./base/media";
