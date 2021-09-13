@@ -2,7 +2,7 @@
 
 Links to my projects
 1. Furniture –>
-https://kirrus24.github.io/sites/furnutire-shop/Funiro-master/Funiro-master/index
+https://kirrus24.github.io/sites/furniture/furniture/index
 
 2. Go-Serf –> 
 https://kirrus24.github.io/sites/go-serf/app/
