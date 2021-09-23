@@ -34,7 +34,7 @@ Hosted projects
 6. Printing house –>
    https://www.burunin.com.ua/
 
-Wordpress-blog –>
-Using PHP function
+7. Wordpress-blog –>
+   Using PHP function
 
-http://z9792851.beget.tech/
+   http://z9792851.beget.tech/
