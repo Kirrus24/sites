@@ -8,7 +8,7 @@ Links to my projects
    https://kirrus24.github.io/sites/furniture/furniture/index
 
 2. Go-Serf –>
-   Using JS and SVG animation
+   Using JS and SVG animation, SCSS. 
 
    https://kirrus24.github.io/sites/go-serf/app/
 
@@ -34,5 +34,6 @@ Hosted projects
 6. Printing house –>
    https://www.burunin.com.ua/
 
-Wordpress-blog using PHP function
-http://z9792851.beget.tech/
+Wordpress-blog using PHP function –>
+   http://z9792851.beget.tech/
+
